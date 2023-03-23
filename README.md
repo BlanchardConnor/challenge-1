@@ -45,6 +45,7 @@ This challenge was to refactor the code for the Horiseon homepage site. The refa
 * [Repository Link]
 
 [Deployed Website]: https://blanchardconnor.github.io/challenge-1/
+
 [Repository Link]: ttps://github.com/BlanchardConnor/challenge-1
 
 
