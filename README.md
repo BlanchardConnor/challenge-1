@@ -40,6 +40,14 @@ This challenge was to refactor the code for the Horiseon homepage site. The refa
 
 
 ### Usage
+Once the link is deployed, the website can be viewed in a traditional desktop browser. Site not yet optimized for smaller screens than 768px.
+- - - -
+<p align="center">
+<img src="https://user-images.githubusercontent.com/127651452/227071834-3d4239e4-6b1d-4958-a355-f043699bf642.png">
+</p>
+
+
+- - - -
 #### Provided Links
 * [Deployed Website]
 * [Repository Link]
